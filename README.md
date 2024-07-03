@@ -1,4 +1,31 @@
 # LA CRIMES ANALYSIS
+# Crime Analysis and Prediction using Linear Regression
+This project focuses on analyzing crime data from Los Angeles using Python and Jupyter Notebook. The analysis includes data cleaning, exploratory data analysis (EDA), and applying linear regression to investigate relationships between variables.
+
+Tools Used
+Python: Programming language used for data manipulation and analysis.
+Jupyter Notebook: Interactive development environment for running Python code and documenting analysis.
+Libraries: Utilized libraries include:
+Pandas: Data manipulation and analysis tool.
+NumPy: Scientific computing library for numerical operations.
+Matplotlib.pyplot: Plotting library for creating visualizations.
+Seaborn: Data visualization library based on Matplotlib for enhanced graphics.
+Scikit-learn (sklearn): Machine learning library in Python, used for implementing linear regression (LinearRegression), model selection (train_test_split), and performance metrics (mean_squared_error).
+Methodology
+
+Data Cleaning and Preparation:
+Loaded and cleaned crime data to ensure consistency and accuracy.
+Handled missing values and formatted data for analysis.
+
+Exploratory Data Analysis (EDA):
+Conducted EDA to understand data distributions, correlations, and trends.
+Visualized crime types, victim demographics (gender and age), and monthly crime trends using Matplotlib and Seaborn.
+
+Linear Regression Analysis:
+Implemented linear regression using sklearn to explore relationships between independent variables (e.g., demographic factors, crime types) and crime counts.
+Split data into training and testing sets using train_test_split.
+Evaluated model performance using metrics such as Mean Squared Error (MSE) to assess prediction accuracy.
+
 
 # Understanding and Addressing Crimes in Los Angeles: Detailed Recommendation Report
 
